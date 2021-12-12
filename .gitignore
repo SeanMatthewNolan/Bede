@@ -1,0 +1,16 @@
+# IDE Settings
+*.idea
+*.vscode
+
+# Python Files
+__pycache__
+*.egg-info
+
+# pipenv (I may switch back to venv only so may be removed)
+Pipfile
+Pipfile.lock
+
+# Sandbox Test Locations
+/test_library
+
+
