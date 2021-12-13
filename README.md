@@ -1,6 +1,6 @@
 # (The Venereable) Bede
 
-> Since I do not want to be thought a theif in putting down as mine what is really theirs, I have decided to place the first letter of each authority in the margin, against each passage taken from his writings.
+> Since I do not want to be thought a thief in putting down as mine what is really theirs, I have decided to place the first letter of each authority in the margin, against each passage taken from his writings.
 > I beg and pray that these marks be copied from my original if at some future time my works be judged worthy of reproduction.
 > 
 > -*St. Bede the Venereable* [1]
@@ -18,4 +18,5 @@ Currently, it is in very early developement and not in a functional state.
 
 ## Basic Usage
 
+## References
 [1] Rengers, F. C. The 35 Doctors of the Church. TAN Books, 2014.

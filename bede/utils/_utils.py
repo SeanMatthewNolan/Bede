@@ -28,7 +28,7 @@ def make_ordinal(num: int) -> str:
 
     if 0 < digit < 4:
         if (abs(num) % 100) % 10 == 1:
-            return f'{num}rd'
+            return f'{num}th'
         elif digit == 1:
             return f'{num}st'
         elif digit == 2:
@@ -36,4 +36,4 @@ def make_ordinal(num: int) -> str:
         else:
             return f'{num}rd'
     else:
-        return f'{num}rd'
+        return f'{num}th'
